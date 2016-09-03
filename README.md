@@ -3,6 +3,7 @@ Version Control for Kolibri UI/UX design
 
 
 **The problems:**
+
 It appears to us that a version control solution is needed to accommodate the collaborative design work we've done for Kolibri.
 There are 3 major issues we want to address with this version control solution:
 
@@ -13,6 +14,7 @@ There are 3 major issues we want to address with this version control solution:
 3. Be able to asynchronously comment on and reply to new designs. We used to post designs in our online chat room to get feedbacks. But just like design takes inspiration, criticizing design also takes inspiration. Since we cannot guarantee to get inspired in time, let's do it asynchronously via Pull Request.
 
 **The solution:**
+
 Issue 1 and 3 stated above are addressed by managing the project on github. 
 For issue 2, we rely on the Sketch plugin `Place-Linked-Bitmap` to create external linkage between a external image file and mulitple Sketch mockup files. If the external image file gets modified, all Sketch mockup files that `link-import` the image file will get updated automatically. Because Sketch supports `export as image file`, we can create the external image file using Sketch.
 There is an example how to build a list UI element uisng this approach.
