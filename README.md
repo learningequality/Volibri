@@ -28,11 +28,13 @@ There is an example how to build a list UI element uisng this approach.
 Now you are done with the creation part. Let's get into the more exiting modification part. Say you want to change the background color of the list-item, you can open the `list_item_element.sketch` to change the background color. After you finished the modification, export image again. You will replace the `list-item.png` with your newer version. (it is important to keep the image file name unchanged!). Open your `list.sketch`, click `Plugins/Place Linked Bitmap/Update All Bitmap`, you will see that all the list-items' background color get changed to the new color.
 Even more exciting, you can export an image from `list.sketch`, let's call it `list.png`, and you can `link-import` this `list.png` in other Sketch mockup files, such as your `Learn_page.sketch` and `Explore_page.sketch`, and they will get auto updated if you changed anything in `list.png`.
 
-**The dependencies for this solution:**
+**The dependencies:**
 
 1. [Sketch](https://www.sketchapp.com/) (necessary to create the assembled mockup that `link-imports` UI element images).
 
 2. [Place-Linked-Bitmap](https://github.com/frankko/Place-Linked-Bitmap) (a Sketch plugin that enables `link-import` images).
+
+3. [sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) (a Sketch plugin for importing our `kolibri_color_palette.sketchpalette`).
 
 **Typical workflow:**
 
