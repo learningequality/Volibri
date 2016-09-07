@@ -68,4 +68,4 @@ You need to install the following plugins.
 
 7. After all concerns addressed, another designer with merge privilege can merge your PR to make your new design offically available to everyone in the company. :shipit:
 
-Notice: If you like to try a couple different desgins, you should create branches fro each design.
+Notice: If you like to try a couple different design, you should create branches for each design.
