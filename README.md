@@ -11,16 +11,16 @@ There are 3 major issues we want to address with this version control solution:
 
 2. Be able to keep design modifications in sync across the team. Our design team has collectively experienced this pain that if one of us updates the design of a shared UI element, all of us have to find the files that uses this shared element and manually update it.
 
-3. Be able to asynchronously comment on and reply to new designs. We used to post designs in our online chat room to get feedbacks. But it gets pushed up and becomes difficult to access again. Sometimes people come up with good comments or replys afterwards. It makes alot sense to asynchronously comment and reply via Pull Request.
+3. Be able to asynchronously comment on and reply to new designs. We used to post designs in our online chat room to get feedbacks. But it gets pushed up and becomes difficult to access again. Sometimes people come up with good comments or replies afterwards. It makes a lot sense to asynchronously comment and reply via Pull Request.
 
 **The solution:**
 
 Terminology: `link-import` means using `Place-Linked-Bitmap` plugin's `Place Bitmap as New Layer` method to create a linkage of the external image file. This means that whenever the external image files changed, we can use the `Update All Bitmaps` method to update all link-imported images in the Sketch file.
 
 Issue 1 and 3 stated above are addressed by managing the project on github. 
-For issue 2, we rely on the Sketch plugin `Place-Linked-Bitmap` to create external linkage between a external image file and mulitple Sketch mockup files. If the external image file gets modified, all Sketch mockup files that `link-import` the image file will get updated automatically. The external image file can also be created by Sketch. Using the `sketch-image-compressor` plugin, we can export Sketch Slices at once to lossless compressed PNG files.
+For issue 2, we rely on the Sketch plugin `Place-Linked-Bitmap` to create external linkage between a external image file and multiple Sketch mockup files. If the external image file gets modified, all Sketch mockup files that `link-import` the image file will get updated automatically. The external image file can also be created by Sketch. Using the `sketch-image-compressor` plugin, we can export Sketch Slices at once to lossless compressed PNG files.
 
-There is an example how to build a list UI element uisng this approach.
+There is an example how to build a list UI element using this approach.
 
 1. We create 2 Sketch files, `container_element.sketch` and `list_item_element.sketch`.
 
@@ -66,6 +66,6 @@ You need to install the following plugins.
 
 6. Everyone can give feedbacks by commenting your PR.
 
-7. After all concerns addressed, another designer with merge privilege can merge your PR to make your new design offically available to everyone in the company. :shipit:
+7. After all concerns addressed, another designer with merge privilege can merge your PR to make your new design officially available to everyone in the company. :shipit:
 
 Notice: If you like to try a couple different design, you should create branches for each design.
