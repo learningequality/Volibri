@@ -15,39 +15,43 @@ There are 3 major issues we want to address with this version control solution:
 
 **The solution:**
 
+Terminology: `link-import` means using `Place-Linked-Bitmap` plugin's `Place Bitmap as New Layer` method to create a linkage of the external image file. Therefore, whenever the external image files changed, we can use the `Update All Bitmaps` method to update all link-imported images in the Sketch file.
+
 Issue 1 and 3 stated above are addressed by managing the project on github. 
-For issue 2, we rely on the Sketch plugin `Place-Linked-Bitmap` to create external linkage between a external image file and mulitple Sketch mockup files. If the external image file gets modified, all Sketch mockup files that `link-import` the image file will get updated automatically. Because Sketch supports `export as image file`, we can create the external image file using Sketch.
+For issue 2, we rely on the Sketch plugin `Place-Linked-Bitmap` to create external linkage between a external image file and mulitple Sketch mockup files. If the external image file gets modified, all Sketch mockup files that `link-import` the image file will get updated automatically. The external image file can also be created by Sketch. Using the `sketch-image-compressor` plugin, we can export Sketch Slices at once to lossless compressed PNG files.
 There is an example how to build a list UI element uisng this approach.
 
 1. We create 2 Sketch files, `container_element.sketch` and `list_item_element.sketch`.
 
-2. We use the `export as image file` feature of Sketch to generate 2 image files, `container.png` and `list-item.png`.
+2. We use the `Make Exportable` feature of Sketch to generate 2 image files, `container.png` and `list-item.png`. (Note: because we installed `sketch-image-compressor` plugin, all exported images will be automatically losslessly compressed.)
 
-3. We create another Sketch file `list.sketch` that `link-import` the `container.png` and `list-item.png`, place the imported list-item inside the imported container, copy paste the imported list-item couple times to make it looks like a proper list UI element.
+3. We create another Sketch file `list.sketch` that `link-import` the `container.png` and `list-item.png`, place the imported list-item inside the imported container, copy paste(the duplications will keep the linkage to the external image) the list-item couple times to make it looks like a proper list UI element.
 
-Now you are done with the creation part. Let's get into the more exiting modification part. Say you want to change the background color of the list-item, you can open the `list_item_element.sketch` to change the background color. After you finished the modification, export image again. You will replace the `list-item.png` with your newer version. (it is important to keep the image file name unchanged!). Open your `list.sketch`, click `Plugins/Place Linked Bitmap/Update All Bitmap`, you will see that all the list-items' background color get changed to the new color.
-Even more exciting, you can export an image from `list.sketch`, let's call it `list.png`, and you can `link-import` this `list.png` in other Sketch mockup files, such as your `Learn_page.sketch` and `Explore_page.sketch`, and they will get auto updated if you changed anything in `list.png`.
+Say later you want to change the background color of the list-item, you can open the `list_item_element.sketch` and change the background color. Export image again to update the `list-item.png` with your modification. (it is important to keep the image file name unchanged!). Open your `list.sketch`, click `Plugins/Place Linked Bitmap/Update All Bitmap`, you will see that all the list-items' background color get changed to the new color.
+It gets more interesting when you apply this pattern recursively. Go ahead and select all elements that consists the list inside `list.sketch` and create a `Symbol` called `list`. Export this symbol you get `list.png`. Now you can `link-import` this `list.png` in other Sketch mockup files, such as your `Learn_page.sketch` and `Explore_page.sketch`, and they will get auto updated if you changed anything in `list.png`.
 
 **The dependencies:**
 
-1. [Sketch](https://www.sketchapp.com/) (necessary to create the assembled mockup that `link-imports` UI element images).
+You need to install the following plugins.
 
-2. [Place-Linked-Bitmap](https://github.com/frankko/Place-Linked-Bitmap) (a Sketch plugin that enables `link-import` images).
+1. [Place-Linked-Bitmap](https://github.com/frankko/Place-Linked-Bitmap) (a Sketch plugin that enables `link-import` images).
 
-3. [sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) (a Sketch plugin for importing our `kolibri_color_palette.sketchpalette`).
+2. [sketch-image-compressor](https://github.com/BohemianCoding/sketch-image-compressor) (a Sketch plugin that exports all your slices to lossless compressed pngs).
 
-**Typical workflow:**
+**Let's get started:**
 
-1. fork this Repo.
+1. `fork` this Repo.
 
-2. git clone your forking repo.
+2. `git clone` your forking repo.
 
-3. find the source file you like to modify(or create a source file if you are introducing new elements), make your modifications, when you finished, generate images(PNG, JPG, PSD...) from the source file.
+3. Create some PNG formatted UI elements using Sketch and `link-import` them in other Sketch file to create more complicated UI elements.
 
-4. commit both the source file and the image files, so that the mockup can `link-import` your images and additional modifications can be done by editing the source file.
+4. Commit both your source file(the Sketch files) and your image files(the Exported PNG files), so that other people can `link-import` your images in their mockup. Future modifications can be done by editing your source files and re-export the image files.
 
-5. open a PR with proper descriptions.
+5. Open a PR with proper descriptions stating the design consideration(a PR template will be added soon).
 
-6. another designer with merge privilege can merge your PR to make your new design offically available to everyone in the company. :shipit:
+6. Everyone can give feedbacks by commenting your PR.
+
+7. After all concerns addressed, another designer with merge privilege can merge your PR to make your new design offically available to everyone in the company. :shipit:
 
 Notice: If you like to try a couple different desgins, you should create branches fro each design.
