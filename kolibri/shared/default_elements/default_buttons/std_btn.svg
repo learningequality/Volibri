@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="36" viewBox="0 0 176 36" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>
+    std_btn
+  </title>
+  <defs>
+    <rect id="a" width="176" height="36" rx="4"/>
+    <mask id="b" width="176" height="36" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use stroke="#996189" stroke-width="4" mask="url(#b)" xlink:href="#a"/>
+    <text fill="#996189" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+      <tspan x="22.074" y="24">Standard Button</tspan>
+    </text>
+  </g>
+</svg>

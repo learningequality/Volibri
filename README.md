@@ -50,7 +50,7 @@ It gets more interesting when you apply this pattern recursively.
 
 You need to install the following plugins.
 
-1. [Sketch-Linked-SVG](https://github.com/66eli77/Sketch-Linked-SVG#import-linked-svg) (Sketch plugin that lets you import external SVGs and update the imported SVGs).
+1. [Sketch-Linked-SVG](https://github.com/66eli77/Sketch-Linked-SVG) (Sketch plugin that lets you import external SVGs and update the imported SVGs).
 
 2. [svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) (Sketch Plugin that compresses SVG assets using SVGO, right when you export them).
 
