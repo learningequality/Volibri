@@ -52,7 +52,7 @@ You need to install the following plugins.
 
 1. [Sketch-Linked-SVG](https://github.com/66eli77/Sketch-Linked-SVG) (Sketch plugin that lets you import external SVGs and update the imported SVGs).
 
-2. [svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) (Sketch Plugin that compresses SVG assets using SVGO, right when you export them).
+2. [svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) (Sketch Plugin that compresses SVG assets using SVGO, right when you export them). Because we use id to save SVG file's relative location, we need to disable the `cleanupIDs` feature in svgo-compressor. To do so, you can select Plugins › SVGO Compressor › About SVGO Compressor and then click the Edit SVGO Settings… button. Your default editor will open the svgo.json file, where you’ll be able to comment out the `cleanupIDs` settings.
 
 **Let's get started:**
 
