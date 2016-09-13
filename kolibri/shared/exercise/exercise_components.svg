@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1156px" height="742px" viewBox="0 0 1156 742" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>exercise_components</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="191" y="103" width="831" height="253" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="831" height="253" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="174" height="42" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="174" height="42" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="200" y="453" width="549" height="253"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="549" height="253" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="exercise" transform="translate(-131.000000, -31.000000)">
+            <g id="exercise_components" transform="translate(131.000000, 31.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="1156" height="742"></rect>
+                <text id="US-History" font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold" fill="#3A3A3A">
+                    <tspan x="543" y="47">US History</tspan>
+                </text>
+                <text id="The-Declaration-of-I" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal" fill="#3A3A3A">
+                    <tspan x="498" y="71">The Declaration of Independence</tspan>
+                </text>
+                <use id="Rectangle-2" stroke="#E2D1E0" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                <text id="“We-hold-these-truth" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal" fill="#3A3A3A">
+                    <tspan x="236" y="137">“We hold these truths to be </tspan>
+                    <tspan x="471.599609" y="137" font-family="NotoSans-Italic, Noto Sans" font-style="italic">self-evident</tspan>
+                    <tspan x="562.188477" y="137">.”</tspan>
+                    <tspan x="236" y="161">The term </tspan>
+                    <tspan x="317.553711" y="161" font-family="NotoSans-Italic, Noto Sans" font-style="italic">self-evident </tspan>
+                    <tspan x="412.818359" y="161">means...</tspan>
+                </text>
+                <rect id="Rectangle-13" fill="#D8D8D8" x="234" y="224" width="25.5331301" height="22.1978469" rx="8"></rect>
+                <rect id="Rectangle-13" fill="#D8D8D8" x="234" y="269" width="25.5331301" height="22.1978469" rx="8"></rect>
+                <rect id="Rectangle-13" fill="#D8D8D8" x="234" y="315" width="25.5331301" height="22.1978469" rx="8"></rect>
+                <text id="shows-the-influence" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal" fill="#3A3A3A">
+                    <tspan x="272" y="239">shows the influence of philosophers such as David Hume.</tspan>
+                </text>
+                <text id="was-colonists’-way-o" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal" fill="#3A3A3A">
+                    <tspan x="272" y="285">was colonists’ way of mocking the British by stating the obvious nature of their beliefs.</tspan>
+                </text>
+                <text id="shows-the-influence" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal" fill="#3A3A3A">
+                    <tspan x="272" y="331">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
+                </text>
+                <text id="Select-all-that-appl" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" fill="#3A3A3A">
+                    <tspan x="236" y="207">Select all that apply.</tspan>
+                </text>
+                <g id="Group-3" transform="translate(848.000000, 370.000000)">
+                    <use id="Rectangle" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#996189" xlink:href="#path-3"></use>
+                    <text id="Check-Answer" font-family="NotoSans-Bold, Noto Sans" font-size="14.3999996" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="37.388535" y="26">Check Answer</tspan>
+                    </text>
+                </g>
+                <text id="Scratchpad" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold" fill="#3A3A3A">
+                    <tspan x="200" y="435">Scratchpad </tspan>
+                </text>
+                <use id="Rectangle-3" stroke="#979797" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                <g id="Egg-Points" transform="translate(840.000000, 532.000000)">
+                    <g id="egg" transform="translate(3.000000, 0.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="egg" transform="translate(52.000000, 0.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="egg" transform="translate(101.000000, 0.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="egg" transform="translate(153.000000, 0.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="egg" transform="translate(203.000000, 0.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M0.380434783,41.5 L34.6195652,41.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M50.3804348,41.5 L84.6195652,41.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M100.380435,41.5 L134.619565,41.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M150.380435,41.5 L184.619565,41.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M200.380435,41.5 L234.619565,41.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
