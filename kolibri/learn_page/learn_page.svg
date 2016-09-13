@@ -1,44 +1,206 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="1280px" height="850px" viewBox="0 0 1280 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F9F9F9;">
+<svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>Desktop Landscape</title>
+    <title>learn_page</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <rect id="path-1" x="0" y="0" width="176" height="36" rx="4"></rect>
+        <rect id="path-1" x="0" y="0" width="831" height="253" rx="8"></rect>
+        <rect id="path-3" x="0" y="0" width="174" height="42" rx="4"></rect>
+        <rect id="path-5" x="0" y="0" width="549" height="253"></rect>
     </defs>
-    <g id="learn_page_1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-Landscape">
-            <g id="@@../shared/default_elements/default_buttons/std_btn.svg" transform="translate(221.000000, 129.000000)">
-                <g id="std_btn">
-                    <g id="Group">
-                        <g id="Clipped">
-                            <mask id="mask-2" fill="white">
-                                <use xlink:href="#path-1"></use>
-                            </mask>
-                            <g id="a"></g>
-                            <g id="a-link" mask="url(#mask-2)" stroke="#996189" stroke-width="4">
-                                <rect id="a" x="0" y="0" width="176" height="36" rx="4"></rect>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="learn_page">
+            <g id="Page-1">
+                <g id="learn_page">
+                    <g id="learn_page_1">
+                        <rect id="Rectangle-2" fill="#F9F9F9" x="0" y="0" width="1440" height="1024"></rect>
+                        <g id="Desktop-Landscape">
+                            <g id="@@../shared/side_nav/sidenav_desktop_explore_active.svg">
+                                <g id="sidenav_desktop_explore_active">
+                                    <g id="side_nav">
+                                        <g id="Desktop-Landscape">
+                                            <g id="sidenav_desktop_explore_active">
+                                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="100" height="850"></rect>
+                                                <rect id="Rectangle-2" fill="#996192" x="0" y="160" width="100" height="168"></rect>
+                                                <path d="M50,230.8 C48.78,230.8 47.8,231.78 47.8,233 C47.8,234.22 48.78,235.2 50,235.2 C51.22,235.2 52.2,234.22 52.2,233 C52.2,231.78 51.22,230.8 50,230.8 L50,230.8 L50,230.8 Z M50,213 C38.96,213 30,221.96 30,233 C30,244.04 38.96,253 50,253 C61.04,253 70,244.04 70,233 C70,221.96 61.04,213 50,213 L50,213 L50,213 Z M54.38,237.38 L38,245 L45.62,228.62 L62,221 L54.38,237.38 L54.38,237.38 L54.38,237.38 Z" id="Shape" fill="#FFFFFF"></path>
+                                                <text id="Explore" fill="#FFFFFF" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                                                    <tspan x="25" y="272">Explore</tspan>
+                                                </text>
+                                                <text id="Learn" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                                                    <tspan x="31" y="109">Learn</tspan>
+                                                </text>
+                                                <polygon id="Shape" fill="#996192" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
                             </g>
                         </g>
-                        <text id="Standard-Button" fill="#996189" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
-                            <tspan x="22.074" y="24">Standard Button</tspan>
-                        </text>
                     </g>
-                </g>
-            </g>
-            <g id="@@../shared/side_nav/sidenav_desktop_explore_active.svg">
-                <g id="sidenav_desktop_explore_active">
-                    <g id="Group">
-                        <rect id="Rectangle-path" fill="#FFFFFF" x="0" y="0" width="100" height="850"></rect>
-                        <rect id="Rectangle-path" fill="#996192" x="0" y="160" width="100" height="168"></rect>
-                        <path d="M50,230.8 C48.78,230.8 47.8,231.78 47.8,233 C47.8,234.22 48.78,235.2 50,235.2 C51.22,235.2 52.2,234.22 52.2,233 C52.2,231.78 51.22,230.8 50,230.8 L50,230.8 L50,230.8 Z M50,213 C38.96,213 30,221.96 30,233 C30,244.04 38.96,253 50,253 C61.04,253 70,244.04 70,233 C70,221.96 61.04,213 50,213 L50,213 L50,213 Z M54.38,237.38 L38,245 L45.62,228.62 L62,221 L54.38,237.38 L54.38,237.38 L54.38,237.38 Z" id="Shape" fill="#FFFFFF"></path>
-                        <text id="Explore" fill="#FFFFFF" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                            <tspan x="25" y="272">Explore</tspan>
-                        </text>
-                        <text id="Learn" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                            <tspan x="31" y="109">Learn</tspan>
-                        </text>
-                        <polygon id="Shape" fill="#996192" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"></polygon>
+                    <g id="@@../shared/exercise/exercise_components.svg">
+                        <g id="exercise_components">
+                            <g id="Page-1">
+                                <g id="exercise" transform="translate(131.000000, 31.000000)">
+                                    <g id="exercise_components">
+                                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="1156" height="742"></rect>
+                                        <g id="US-History" transform="translate(543.000000, 26.000000)" font-size="20" font-family="NotoSans-Bold, Noto Sans" fill="#3A3A3A" font-weight="bold">
+                                            <text>
+                                                <tspan x="0" y="21">US History</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="The-Declaration-of-I" transform="translate(498.000000, 56.000000)" font-size="14" font-family="NotoSans, Noto Sans" fill="#3A3A3A" font-weight="normal">
+                                            <text id="The-Declaration-of-Independence">
+                                                <tspan x="0" y="15">The Declaration of Independence</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Rectangle-2-Clipped" transform="translate(191.000000, 103.000000)">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <g id="path-1"></g>
+                                            <g id="Rectangle-2" mask="url(#mask-2)" stroke="#E2D1E0" stroke-width="2">
+                                                <rect id="path-1" x="0" y="0" width="831" height="253" rx="8"></rect>
+                                            </g>
+                                        </g>
+                                        <g id="“We-hold-these-truth" transform="translate(236.000000, 118.000000)" font-size="18" fill="#3A3A3A" font-weight="normal">
+                                            <text id="“We-hold-these-truths-to-be" font-family="NotoSans, Noto Sans">
+                                                <tspan x="0" y="19">“We hold these truths to be</tspan>
+                                            </text>
+                                            <text id="self-evident" font-family="NotoSans-Italic, Noto Sans" font-style="italic">
+                                                <tspan x="235.599609" y="19">self-evident</tspan>
+                                            </text>
+                                            <text id=".”" font-family="NotoSans, Noto Sans">
+                                                <tspan x="326.188477" y="19">.”</tspan>
+                                            </text>
+                                            <text id="The-term" font-family="NotoSans, Noto Sans">
+                                                <tspan x="0" y="43">The term</tspan>
+                                            </text>
+                                            <text id="self-evident" font-family="NotoSans-Italic, Noto Sans" font-style="italic">
+                                                <tspan x="81.553711" y="43">self-evident</tspan>
+                                            </text>
+                                            <text id="means..." font-family="NotoSans, Noto Sans">
+                                                <tspan x="176.818359" y="43">means...</tspan>
+                                            </text>
+                                        </g>
+                                        <rect id="Rectangle-13" fill="#D8D8D8" x="234" y="224" width="25.5331301" height="22.1978469" rx="8"></rect>
+                                        <rect id="Rectangle-13" fill="#D8D8D8" x="234" y="269" width="25.5331301" height="22.1978469" rx="8"></rect>
+                                        <rect id="Rectangle-13" fill="#D8D8D8" x="234" y="315" width="25.5331301" height="22.1978469" rx="8"></rect>
+                                        <g id="shows-the-influence" transform="translate(272.000000, 224.000000)" font-size="14" font-family="NotoSans, Noto Sans" fill="#3A3A3A" font-weight="normal">
+                                            <text id="shows-the-influence-of-philosophers-such-as-David-Hume.">
+                                                <tspan x="0" y="15">shows the influence of philosophers such as David Hume.</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="was-colonists’-way-o" transform="translate(272.000000, 270.000000)" font-size="14" font-family="NotoSans, Noto Sans" fill="#3A3A3A" font-weight="normal">
+                                            <text id="was-colonists’-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs.">
+                                                <tspan x="0" y="15">was colonists’ way of mocking the British by stating the obvious nature of their beliefs.</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="shows-the-influence" transform="translate(272.000000, 316.000000)" font-size="14" font-family="NotoSans, Noto Sans" fill="#3A3A3A" font-weight="normal">
+                                            <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration.">
+                                                <tspan x="0" y="15">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Select-all-that-appl" transform="translate(236.000000, 192.000000)" font-size="14" font-family="NotoSans-Bold, Noto Sans" fill="#3A3A3A" font-weight="bold">
+                                            <text id="Select-all-that-apply.">
+                                                <tspan x="0" y="15">Select all that apply.</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Group-3">
+                                            <g id="Rectangle-Clipped">
+                                                <mask id="mask-4" fill="white">
+                                                    <use xlink:href="#path-3"></use>
+                                                </mask>
+                                                <g id="path-3"></g>
+                                                <g id="Rectangle" mask="url(#mask-4)" stroke="#979797" stroke-width="2" fill="#996189">
+                                                    <rect id="path-3" x="0" y="0" width="174" height="42" rx="4"></rect>
+                                                </g>
+                                            </g>
+                                            <g id="Check-Answer" transform="translate(37.000000, 11.000000)" font-size="14.3999996" font-family="NotoSans-Bold, Noto Sans" fill="#FFFFFF" font-weight="bold">
+                                                <text>
+                                                    <tspan x="0.388535" y="15">Check Answer</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Scratchpad" transform="translate(200.000000, 420.000000)" font-size="14" font-family="NotoSans-Bold, Noto Sans" fill="#3A3A3A" font-weight="bold">
+                                            <text>
+                                                <tspan x="0" y="15">Scratchpad</tspan>
+                                            </text>
+                                        </g>
+                                        <g id="Rectangle-3-Clipped" transform="translate(200.000000, 453.000000)">
+                                            <mask id="mask-6" fill="white">
+                                                <use xlink:href="#path-5"></use>
+                                            </mask>
+                                            <g id="path-5"></g>
+                                            <g id="Rectangle-3" mask="url(#mask-6)" stroke="#979797" stroke-width="2">
+                                                <rect id="path-5" x="0" y="0" width="549" height="253"></rect>
+                                            </g>
+                                        </g>
+                                        <g id="Egg-Points">
+                                            <g id="egg">
+                                                <g id="Layer_1">
+                                                    <g id="Group">
+                                                        <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                                        <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                                        <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                                        <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                                        <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="egg">
+                                                <g id="Layer_1">
+                                                    <g id="Group">
+                                                        <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                                        <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                                        <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                                        <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                                        <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="egg">
+                                                <g id="Layer_1">
+                                                    <g id="Group">
+                                                        <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                                        <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                                        <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                                        <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                                        <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="egg">
+                                                <g id="Layer_1">
+                                                    <g id="Group">
+                                                        <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                                        <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                                        <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                                        <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                                        <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="egg">
+                                                <g id="Layer_1">
+                                                    <g id="Group">
+                                                        <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                                        <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                                        <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                                        <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                                        <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <path d="M0.380434783,41.5 L34.6195652,41.5" id="Line" stroke="#979797"></path>
+                                            <path d="M50.3804348,41.5 L84.6195652,41.5" id="Line" stroke="#979797"></path>
+                                            <path d="M100.380435,41.5 L134.619565,41.5" id="Line" stroke="#979797"></path>
+                                            <path d="M150.380435,41.5 L184.619565,41.5" id="Line" stroke="#979797"></path>
+                                            <path d="M200.380435,41.5 L234.619565,41.5" id="Line" stroke="#979797"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
                     </g>
                 </g>
             </g>
