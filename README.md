@@ -11,16 +11,16 @@ There are 3 major issues we want to address with this version control solution:
 
 2. Be able to keep design modifications in sync across the team. Our design team has collectively experienced this pain that if one of us updates the design of a shared UI element, all of us have to find the files that uses this shared element and manually update it.
 
-3. Be able to asynchronously comment on and reply to new designs. We used to post designs in our online chat room to get feedbacks. But it gets pushed up and becomes difficult to access again. Sometimes people come up with good comments or replies afterwards. It makes a lot sense to asynchronously comment and reply via Pull Request.
+3. Be able to asynchronously comment on and reply to new designs. We usually post designs in our online chat room to receive feedback. This can be an issue if strings of comments were unseen and pushed up in the chatroom. It can be very inconvenient and difficult to access the feedback again. It makes a lot sense to asynchronously comment and reply via Pull Request.
 
 **The solution:**
 
-Terminology: `link-import` means using `Sketch-Linked-SVG` plugin's `Import Linked SVG` method to create a linkage of the external SVG file. This means that whenever the external image files changed, we can use the `Update All Linked SVGs` method to update all link-imported SVGs in the Sketch file.
+Terminology: `link-import` means when using `Sketch-Linked-SVG` plugin, you are importing an external SVG file into a Sketch file. When the imported external SVG file is modified, we can use the `Update All Linked SVGs` method to update all link-imported SVG layers in the Sketch file.
 
 Issue 1 and 3 stated above are addressed by managing the project on github. 
-For issue 2, we rely on the Sketch plugin `Sketch-Linked-SVG` to creat linkages between external SVG files and multiple Sketch files. If the external SVG files get modified, all Sketch files that `link-import` the SVG files will get updated automatically. The external SVG file can also be created by Sketch. Using the `svgo-compressor` plugin, we can export much smaller and cleaner SVG files.
+For issue 2, we rely on the Sketch plugin `Sketch-Linked-SVG` to creat linkages between external SVG files and multiple Sketch files. If the external SVG files get modified, all Sketch files that `link-import` the SVG files will get updated automatically. The external SVG file can also be created by Sketch.
 
-The reason we choose SVG format is because it's a text based format. So we might be able to have a mergeable solution that enables multiple designers working on the same file at the same time. It is impossible to merge binery files like all bitmap images(PNG, JPG) and `.sketch` format, PSD. But how mergeable this SVG based solution is remains to be tested.
+The reason we choose SVG format is because it's a text based format. It is impossible to merge binary files such as bitmap images(PNG, JPG) and `.sketch` format, PSD. By using the SVG format, we might be able to have a mergeable solution that enables multiple designers to work on the same file at the same time. There remains further testing to know how mergeable this SVG based solution is. 
 
 There is an example how to build a list UI element using this approach.
 
@@ -28,11 +28,11 @@ There is an example how to build a list UI element using this approach.
 
 2. We use the `Make Exportable` feature of Sketch to generate 2 SVG files, `container.svg` and `list-item.svg`. (Note: because we installed `svgo-compressor` plugin, all exported SVGs will be automatically compressed.)
 
-3. We create another Sketch file `list.sketch` that `link-import` the `container.svg` and `list-item.svg`, place the imported list-item inside the imported container, copy paste(the duplications will keep the linkage to the external SVG file) the list-item couple times to make it looks like a proper list UI element.
+3. We create another Sketch file `list.sketch` that will `link-import` the `container.svg` and `list-item.svg`. Place the imported list-item inside the imported container, copy paste(the duplications will keep the linkage to the external SVG file) the list-item couple times to make it looks like a proper list UI element.
 
 Say later you want to change the background color of the list-item: 
 
-1. you can open the `list_item_element.sketch` and change the background color. 
+1. Open the `list_item_element.sketch` and change the background color. 
 
 2. Export again to update the `list-item.svg` with your modification. (it is important to keep the file name and location unchanged!). 
 
@@ -51,8 +51,6 @@ It gets more interesting when you apply this pattern recursively.
 You need to install the following plugins.
 
 1. [Sketch-Linked-SVG](https://github.com/66eli77/Sketch-Linked-SVG) (Sketch plugin that lets you import external SVGs and update the imported SVGs).
-
-2. [svgo-compressor](https://github.com/BohemianCoding/svgo-compressor) (Sketch Plugin that compresses SVG assets using SVGO, right when you export them). Because we use id to save SVG file's relative location, we need to disable the `cleanupIDs` feature in svgo-compressor. To do so, you can select Plugins › SVGO Compressor › About SVGO Compressor and then click the Edit SVGO Settings… button. Your default editor will open the svgo.json file, where you’ll be able to comment out the `cleanupIDs` settings.
 
 **Let's get started:**
 
