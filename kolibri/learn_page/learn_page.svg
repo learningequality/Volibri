@@ -1,225 +1,215 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>learn_page</title>
-    <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="831" height="309" rx="8"></rect>
         <rect id="path-3" x="0" y="0" width="133" height="41" rx="4"></rect>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="learn_page">
-            <rect id="Rectangle-2" fill="#F9F9F9" x="0" y="0" width="1440" height="1024"></rect>
-            <g id="Desktop-Landscape">
-                <g id="@@../shared/side_nav/sidenav_desktop_explore_active.svg">
-                    <g id="sidenav_desktop_explore_active">
-                        <g id="side_nav">
-                            <g id="Desktop-Landscape">
-                                <g id="sidenav_desktop_explore_active">
-                                    <g id="side_nav">
-                                        <g id="Desktop-Landscape">
-                                            <g id="sidenav_desktop_explore_active">
-                                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="100" height="850"></rect>
-                                                <rect id="Rectangle-2" fill="#996192" x="0" y="160" width="100" height="168"></rect>
-                                                <text id="Search" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                                    <tspan x="26" y="429">Search</tspan>
-                                                </text>
-                                                <path d="M56.7938822,395.578616 L55.1005089,395.578616 L54.5003259,394.999868 C56.6009663,392.556266 57.8656375,389.383871 57.8656375,385.932819 C57.8656375,378.237616 51.6280217,372 43.9328188,372 C36.2376158,372 30,378.237616 30,385.932819 C30,393.628022 36.2376158,399.865638 43.9328188,399.865638 C47.3838708,399.865638 50.5562664,398.600966 52.9998685,396.500326 L53.5786164,397.100509 L53.5786164,398.793882 L64.2961692,409.49 L67.49,406.296169 L56.7938822,395.578616 L56.7938822,395.578616 L56.7938822,395.578616 Z M43.9328188,395.578616 C38.5954774,395.578616 34.2870212,391.27016 34.2870212,385.932819 C34.2870212,380.595477 38.5954774,376.287021 43.9328188,376.287021 C49.2701601,376.287021 53.5786164,380.595477 53.5786164,385.932819 C53.5786164,391.27016 49.2701601,395.578616 43.9328188,395.578616 L43.9328188,395.578616 L43.9328188,395.578616 Z" id="Shape" fill="#996192"></path>
-                                                <text id="Explore" fill="#FFFFFF" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                                    <tspan x="25" y="272">Explore</tspan>
-                                                </text>
-                                                <path d="M50,230.8 C48.78,230.8 47.8,231.78 47.8,233 C47.8,234.22 48.78,235.2 50,235.2 C51.22,235.2 52.2,234.22 52.2,233 C52.2,231.78 51.22,230.8 50,230.8 L50,230.8 L50,230.8 Z M50,213 C38.96,213 30,221.96 30,233 C30,244.04 38.96,253 50,253 C61.04,253 70,244.04 70,233 C70,221.96 61.04,213 50,213 L50,213 L50,213 Z M54.38,237.38 L38,245 L45.62,228.62 L62,221 L54.38,237.38 L54.38,237.38 L54.38,237.38 Z" id="Shape" fill="#FFFFFF"></path>
-                                                <text id="Learn" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                                    <tspan x="31" y="109">Learn</tspan>
-                                                </text>
-                                                <polygon id="Shape" fill="#996192" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"></polygon>
-                                            </g>
-                                        </g>
-                                    </g>
-                                </g>
-                            </g>
+    <g id="learn_page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="background" fill="#F9F9F9" x="0" y="0" width="1440" height="1024"></rect>
+        <g id="@@../shared/side_nav/sidenav_desktop_explore_active.svg">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="100" height="850"></rect>
+            <rect id="Rectangle-2" fill="#996192" x="0" y="160" width="100" height="168"></rect>
+            <text id="Search" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                <tspan x="26" y="429">Search</tspan>
+            </text>
+            <path d="M56.7938822,395.578616 L55.1005089,395.578616 L54.5003259,394.999868 C56.6009663,392.556266 57.8656375,389.383871 57.8656375,385.932819 C57.8656375,378.237616 51.6280217,372 43.9328188,372 C36.2376158,372 30,378.237616 30,385.932819 C30,393.628022 36.2376158,399.865638 43.9328188,399.865638 C47.3838708,399.865638 50.5562664,398.600966 52.9998685,396.500326 L53.5786164,397.100509 L53.5786164,398.793882 L64.2961692,409.49 L67.49,406.296169 L56.7938822,395.578616 L56.7938822,395.578616 L56.7938822,395.578616 L56.7938822,395.578616 Z M43.9328188,395.578616 C38.5954774,395.578616 34.2870212,391.27016 34.2870212,385.932819 C34.2870212,380.595477 38.5954774,376.287021 43.9328188,376.287021 C49.2701601,376.287021 53.5786164,380.595477 53.5786164,385.932819 C53.5786164,391.27016 49.2701601,395.578616 43.9328188,395.578616 L43.9328188,395.578616 L43.9328188,395.578616 L43.9328188,395.578616 Z" id="Shape" fill="#996192"></path>
+            <text id="Explore" fill="#FFFFFF" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                <tspan x="25" y="272">Explore</tspan>
+            </text>
+            <path d="M50,230.8 C48.78,230.8 47.8,231.78 47.8,233 C47.8,234.22 48.78,235.2 50,235.2 C51.22,235.2 52.2,234.22 52.2,233 C52.2,231.78 51.22,230.8 50,230.8 L50,230.8 L50,230.8 L50,230.8 Z M50,213 C38.96,213 30,221.96 30,233 C30,244.04 38.96,253 50,253 C61.04,253 70,244.04 70,233 C70,221.96 61.04,213 50,213 L50,213 L50,213 L50,213 Z M54.38,237.38 L38,245 L45.62,228.62 L62,221 L54.38,237.38 L54.38,237.38 L54.38,237.38 L54.38,237.38 Z" id="Shape" fill="#FFFFFF"></path>
+            <text id="Learn" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                <tspan x="31" y="109">Learn</tspan>
+            </text>
+            <polygon id="Shape" fill="#996192" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"></polygon>
+        </g>
+        <g id="@@../shared/exercise/exercise_components.svg" transform="translate(189.000000, 77.000000)">
+            <g id="Group">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="1156" height="742" rx="4"></rect>
+                <text id="Points:" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
+                    <tspan x="495" y="447">Points:</tspan>
+                </text>
+                <text id="US-History" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold">
+                    <tspan x="543" y="47">US History</tspan>
+                </text>
+                <text id="The-Declaration-of-Independence" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                    <tspan x="498" y="71">The Declaration of Independence</tspan>
+                </text>
+                <g id="Rectangle-2-Clipped" transform="translate(141.000000, 103.000000)">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Rectangle-2" mask="url(#mask-2)" stroke="#E2D1E0" stroke-width="2">
+                            <rect id="path-1" x="0" y="0" width="831" height="309" rx="8"></rect>
                         </g>
                     </g>
                 </g>
-            </g>
-            <g id="@@../shared/exercise/exercise_components.svg" transform="translate(189.000000, 77.000000)">
-                <g id="LinkedSVG">
-                    <g id="exercise_components">
-                        <g id="Symbols">
-                            <g id="exercise_components">
-                                <g id="Group">
-                                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="1156" height="742" rx="4"></rect>
-                                    <text id="Points:" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
-                                        <tspan x="495" y="447">Points:</tspan>
-                                    </text>
-                                    <text id="US-History" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold">
-                                        <tspan x="543" y="47">US History</tspan>
-                                    </text>
-                                    <text id="The-Declaration-of-Independence" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                        <tspan x="498" y="71">The Declaration of Independence</tspan>
-                                    </text>
-                                    <g id="Rectangle-2-Clipped" transform="translate(141.000000, 103.000000)">
-                                        <mask id="mask-2" fill="white">
-                                            <use xlink:href="#path-1"></use>
-                                        </mask>
-                                        <g id="path-1"></g>
-                                        <g id="Rectangle-2" mask="url(#mask-2)" stroke="#E2D1E0" stroke-width="2">
-                                            <rect id="path-1" x="0" y="0" width="831" height="309" rx="8"></rect>
-                                        </g>
-                                    </g>
-                                    <text id="“We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
-                                        <tspan x="186" y="177">“We hold these truths to be</tspan>
-                                    </text>
-                                    <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic" font-weight="normal">
-                                        <tspan x="421.599609" y="177">self-evident</tspan>
-                                    </text>
-                                    <text id=".”" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
-                                        <tspan x="512.188477" y="177">.”</tspan>
-                                    </text>
-                                    <text id="The-term" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
-                                        <tspan x="186" y="201">The term</tspan>
-                                    </text>
-                                    <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic" font-weight="normal">
-                                        <tspan x="267.553711" y="201">self-evident</tspan>
-                                    </text>
-                                    <text id="means..." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
-                                        <tspan x="362.818359" y="201">means...</tspan>
-                                    </text>
-                                    <g id="Checkboxes" transform="translate(184.000000, 264.000000)" fill="#D8D8D8">
-                                        <rect id="Rectangle-13" x="0" y="0" width="25.5331301" height="22.1978469" rx="8"></rect>
-                                        <rect id="Rectangle-13" x="0" y="45" width="25.5331301" height="22.1978469" rx="8"></rect>
-                                        <rect id="Rectangle-13" x="0" y="91" width="25.5331301" height="22.1978469" rx="8"></rect>
-                                    </g>
-                                    <text id="shows-the-influence-of-philosophers-such-as-David-Hume." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                        <tspan x="222" y="279">shows the influence of philosophers such as David Hume.</tspan>
-                                    </text>
-                                    <text id="was-colonists’-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                        <tspan x="222" y="325">was colonists’ way of mocking the British by stating the obvious nature of their beliefs.</tspan>
-                                    </text>
-                                    <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
-                                        <tspan x="222" y="371">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
-                                    </text>
-                                    <text id="Select-all-that-apply." fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
-                                        <tspan x="186" y="247">Select all that apply.</tspan>
-                                    </text>
-                                    <g id="Group-3" transform="translate(796.000000, 458.000000)">
-                                        <rect id="Rectangle" fill="#58B056" x="0" y="0" width="174" height="42" rx="4"></rect>
-                                        <g id="Check-Answer" transform="translate(37.000000, 11.000000)" font-size="14.3999996" font-family="NotoSans-Bold, Noto Sans" fill="#FFFFFF" font-weight="bold">
-                                            <text>
-                                                <tspan x="0.388535" y="15">Check Answer</tspan>
-                                            </text>
-                                        </g>
-                                    </g>
-                                    <g id="Egg-Points" transform="translate(529.000000, 456.802153)">
-                                        <g id="egg" transform="translate(3.000000, 2.000000)">
-                                            <g id="Layer_1">
-                                                <g id="Group">
-                                                    <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
-                                                    <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
-                                                    <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
-                                                    <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
-                                                    <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
-                                                </g>
-                                            </g>
-                                        </g>
-                                        <g id="egg" transform="translate(52.000000, 2.000000)">
-                                            <g id="Layer_1">
-                                                <g id="Group">
-                                                    <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
-                                                    <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
-                                                    <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
-                                                    <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
-                                                    <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
-                                                </g>
-                                            </g>
-                                        </g>
-                                        <g id="egg" transform="translate(101.000000, 2.000000)">
-                                            <g id="Layer_1">
-                                                <g id="Group">
-                                                    <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
-                                                    <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
-                                                    <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
-                                                    <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
-                                                    <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
-                                                </g>
-                                            </g>
-                                        </g>
-                                        <path d="M0.380434783,43.5 L34.6195652,43.5" id="Line" stroke="#979797"></path>
-                                        <path d="M50.3804348,43.5 L84.6195652,43.5" id="Line" stroke="#979797"></path>
-                                        <path d="M100.380435,43.5 L134.619565,43.5" id="Line" stroke="#979797"></path>
-                                        <path d="M150.380435,43.5 L184.619565,43.5" id="Line" stroke="#979797"></path>
-                                        <path d="M200.380435,43.5 L234.619565,43.5" id="Line" stroke="#979797"></path>
-                                        <g id="Sad-Egg" transform="translate(152.000000, 0.197847)">
-                                            <path d="M14.0483051,37.8411392 C6.25508475,37.8411392 0,33.8670886 0,23.4734177 C0,18.3376776 4.70768983,6.02481844 4.70768983,6.02481844 C4.70768983,6.02481844 6.51734737,7.86097627 7.79307285,7.46301728 C8.41923105,7.26768898 8.64840824,6.02700678 8.99412588,4.75383978 C9.55253429,2.69740103 12.1388185,5.91023744 12.5184255,4.75383978 C13.080451,3.04174003 12.5225992,-0.165254574 14.0483051,0.102172655 C21.8664062,1.47253712 27.0711864,10.9398734 27.9940678,20.7221519 L24.3025424,31.1158228 L16.0991525,37.7392405 C15.4838983,37.8411392 14.7661017,37.8411392 14.0483051,37.8411392 L14.0483051,37.8411392 Z" id="Shape" fill="#9B9B9B"></path>
-                                            <ellipse id="Oval" fill="#FFFFFF" cx="10.1127119" cy="14.628481" rx="1.33305085" ry="1.32468354"></ellipse>
-                                            <ellipse id="Oval" fill="#FFFFFF" cx="17.4686441" cy="14.628481" rx="1.33305085" ry="1.32468354"></ellipse>
-                                            <path d="M12.1329086,18.5949364 C12.1329086,18.5949364 11.7227391,20.9386073 13.8761289,20.9386073 C16.0295187,20.9386073 15.6193492,18.5949364 15.6193492,18.5949364" id="Shape" stroke="#FFFFFF" transform="translate(13.876129, 19.766772) rotate(180.000000) translate(-13.876129, -19.766772) "></path>
-                                            <path d="M27.7932203,20.9240506 C27.8957627,21.8411392 27.8957627,22.7582278 27.8957627,23.6753165 C27.8957627,33.1518987 22.6661017,37.2278481 15.8983051,37.9411392 C15.8983051,37.9411392 20.1025424,33.8651899 22.5635593,30.4006329 C25.0245763,26.8341772 27.7932203,20.9240506 27.7932203,20.9240506 L27.7932203,20.9240506 L27.7932203,20.9240506 Z" id="Shape" fill="#E0E1E0"></path>
-                                        </g>
-                                    </g>
-                                </g>
-                                <image id="ic_undo_black_24dp_2x" x="777" y="114" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAdpJREFUaAXtlU0rRVEUhi/5SIwYMFIGGKEwU/wYij9goMQuQyXGMmXiBygjmSqSgfI1kmSEfObrWXLrdtr7nLXPPYOr1qqne/fea71r7/fue06pZGEOmAPmgDlgDpgD5oA5YA7UkgOuljaTZy/fFP2bQzQETrj4Nx9zkCZqJmAchqEXuqAVvuAJbuAcDmEP9uEdCg35Bco4hfIoORtwD+U67afUrIMcuLBINncBZWm6C8n8vOMdtAYCvaKmfRtwFQotfF+DT/DlVjP3geYyNEPuCG3AoSj3+gRCOUXNH9GjB3JF2iaeUUxbf2B9C6ZArlg71IM8LDpgBGRtE7L+M3d/+XzERdoGQ2tXtJgGeeJoQ67iJJxBSFcOKUZERUjMN/+G8jxUc2cbqZ+FF/D1uGW+G9ThE/HNPaIoj9CiYhChC/D1OmBe3jOq8AmE5pxKUZ/USeox+PotaWV8xWlzTiuszJNDXEKyp7yx+zQayULN2GmEI3KGyH2FZO9tjUaySDt2GvGInDlyk73l5dmfpZEsihm7LPGIdfnT+q7SSpZGzIZ9uS6rQcT6DLmVPa4ZL2TVVxbk/e6ymijX28g7hVUYgzqwMAfMAXPAHDAHzAFzwBwwB8wBc+DXgR+KaFQDYxweZgAAAABJRU5ErkJggg=="></image>
-                                <g id="Scratchpad-Tools" transform="translate(731.000000, 116.000000)">
-                                    <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(196.000000, 0.000000)">
-                                        <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
-                                        <g id="rect-3-link" fill="#F6A623">
-                                            <rect id="rect-3" x="0" y="0" width="28" height="28"></rect>
-                                        </g>
-                                    </g>
-                                    <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(106.000000, 0.000000)">
-                                        <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
-                                        <g id="rect-4-link" fill="#D0011B">
-                                            <rect id="rect-4" x="0" y="0" width="28" height="28"></rect>
-                                        </g>
-                                    </g>
-                                    <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(136.000000, 0.000000)">
-                                        <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
-                                        <g id="rect-5-link" fill="#4990E2">
-                                            <rect id="rect-5" x="0" y="0" width="28" height="28"></rect>
-                                        </g>
-                                    </g>
-                                    <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(166.000000, 0.000000)">
-                                        <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
-                                        <g id="rect-6-link" fill="#417505">
-                                            <rect id="rect-6" x="0" y="0" width="28" height="28"></rect>
-                                        </g>
-                                    </g>
-                                    <image id="ic_fiber_manual_record_black_24dp_2x" x="76" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
-                                    <g id="ic_edit_black_24dp_2x" transform="translate(11.000000, 13.000000) rotate(-4.000000) translate(-11.000000, -13.000000) translate(1.000000, 3.000000)">
-                                        <image id="Bitmap" x="0" y="0" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAV5JREFUaAXtllGKwkAMhgt7Dm3duyw+7GkEb+AVxBN4FV/3BrqzhxDEF/3zEAhD16YtTjKQQJgUpp3v//tD2zRR4UA4EA6EA02zggk/6Dv6gP5AV1OfIP1DP0QfMVchog+ehbgX8Qq+ChFbERkG7ltdv4mdUsQe+1wUxWadkWhEXLN7TC458zec/p0RDIk4ZfuLXzI8Z3yMiDNoF8WJxYE5/BgRBL8Uzyo+/gevEWEOT78H+ReWweXaF6eNtfNaeBbSJ6J4XPjAsfBSxBc/xGqdCk8iqsk8Oy7XgJ8Tuepjk6BexkE7u4jNVPgLRJt+YSk2AQ8TileHExNam3O5zzw2AY83Z1IdTk1oGQftTLFp0WbV4eSE1gLLfQEP42ZVwt3SUe1s7jyr1gLLfW7gSYQE08y/uKdl9R5WDTTvcQdPBjLc0OoSXivALbxGgGv4IQHu4UlAVDgQDoQD73fgCQPpsQh0uVjgAAAAAElFTkSuQmCC"></image>
-                                        <g id="rect-7-link" fill="#3A3A3A">
-                                            <rect id="rect-7" x="0" y="0" width="20" height="20"></rect>
-                                        </g>
-                                    </g>
-                                    <polygon id="Shape" fill="#3A3A3A" points="40 7.41 38.59 6 33 11.59 27.41 6 26 7.41 31.59 13 26 18.59 27.41 20 33 14.41 38.59 20 40 18.59 34.41 13"></polygon>
-                                </g>
-                                <g id="Group-3" transform="translate(140.000000, 457.000000)">
-                                    <g id="Rectangle-Clipped">
-                                        <mask id="mask-4" fill="white">
-                                            <use xlink:href="#path-3"></use>
-                                        </mask>
-                                        <g id="path-8"></g>
-                                        <g id="Rectangle" mask="url(#mask-4)" stroke="#58AF56" stroke-width="4">
-                                            <rect id="path-8" x="0" y="0" width="133" height="41" rx="4"></rect>
-                                        </g>
-                                    </g>
-                                    <g id="Get-a-Hint" transform="translate(26.000000, 10.000000)" font-size="14.3999996" font-family="NotoSans-Bold, Noto Sans" fill="#58AF56" font-weight="bold">
-                                        <text>
-                                            <tspan x="0.015625" y="15.7380952">Get a Hint</tspan>
-                                        </text>
-                                    </g>
-                                </g>
-                                <g id="Scratchpad-button" transform="translate(821.000000, 159.000000)">
-                                    <rect id="Rectangle-5" fill="#7B9EBE" x="0" y="0" width="136" height="30" rx="7"></rect>
-                                    <g id="Hide-Scratchpad" transform="translate(20.000000, 6.000000)" font-size="12" font-family="NotoSans-Bold, Noto Sans" fill="#FFFFFF" font-weight="bold">
-                                        <text>
-                                            <tspan x="0" y="13">Hide Scratchpad</tspan>
-                                        </text>
-                                    </g>
-                                </g>
+                <text id="“We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
+                    <tspan x="186" y="177">“We hold these truths to be</tspan>
+                </text>
+                <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic" font-weight="normal">
+                    <tspan x="421.599609" y="177">self-evident</tspan>
+                </text>
+                <text id=".”" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
+                    <tspan x="512.188477" y="177">.”</tspan>
+                </text>
+                <text id="The-term" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
+                    <tspan x="186" y="201">The term</tspan>
+                </text>
+                <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic" font-weight="normal">
+                    <tspan x="267.553711" y="201">self-evident</tspan>
+                </text>
+                <text id="means..." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18" font-weight="normal">
+                    <tspan x="362.818359" y="201">means...</tspan>
+                </text>
+                <g id="Checkboxes" transform="translate(184.000000, 264.000000)" fill="#D8D8D8">
+                    <rect id="Rectangle-13" x="0" y="0" width="25.5331301" height="22.1978469" rx="8"></rect>
+                    <rect id="Rectangle-13" x="0" y="45" width="25.5331301" height="22.1978469" rx="8"></rect>
+                    <rect id="Rectangle-13" x="0" y="91" width="25.5331301" height="22.1978469" rx="8"></rect>
+                </g>
+                <text id="shows-the-influence-of-philosophers-such-as-David-Hume." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                    <tspan x="222" y="279">shows the influence of philosophers such as David Hume.</tspan>
+                </text>
+                <text id="was-colonists’-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                    <tspan x="222" y="325">was colonists’ way of mocking the British by stating the obvious nature of their beliefs.</tspan>
+                </text>
+                <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14" font-weight="normal">
+                    <tspan x="222" y="371">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
+                </text>
+                <text id="Select-all-that-apply." fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
+                    <tspan x="186" y="247">Select all that apply.</tspan>
+                </text>
+                <g id="Group-3" transform="translate(796.000000, 458.000000)">
+                    <rect id="Rectangle" fill="#58B056" x="0" y="0" width="174" height="42" rx="4"></rect>
+                    <g id="Check-Answer" transform="translate(37.000000, 11.000000)" font-size="14.3999996" font-family="NotoSans-Bold, Noto Sans" fill="#FFFFFF" font-weight="bold">
+                        <g id="Group">
+                            <text id="Check-Answer">
+                                <tspan x="0.388535" y="15">Check Answer</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Egg-Points" transform="translate(529.000000, 456.802153)">
+                    <g id="egg" transform="translate(3.000000, 2.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
                             </g>
                         </g>
                     </g>
+                    <g id="egg" transform="translate(52.000000, 2.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="egg" transform="translate(101.000000, 2.000000)">
+                        <g id="Layer_1">
+                            <g id="Group">
+                                <path d="M16.2,37.5 C15.6,37.6 14.9,37.6 14.2,37.6 C6.6,37.6 0.5,33.7 0.5,23.5 C0.5,13.3 6.6,0.7 14.2,0.7 C21.1,0.7 26.9,11.2 27.8,20.8 L24.2,31 L16.2,37.5 L16.2,37.5 L16.2,37.5 L16.2,37.5 Z" id="Shape" fill="#E2D1E0"></path>
+                                <path d="M27.8,21 C27.9,21.9 27.9,22.8 27.9,23.7 C27.9,33 22.8,37 16.2,37.7 C16.2,37.7 20.3,33.7 22.7,30.3 C25.1,26.8 27.8,21 27.8,21 L27.8,21 L27.8,21 L27.8,21 Z" id="Shape" fill="#E0E1E0"></path>
+                                <circle id="Oval" fill="#A09F9F" cx="10.6" cy="14.5" r="1.3"></circle>
+                                <circle id="Oval" fill="#A09F9F" cx="17.8" cy="14.5" r="1.3"></circle>
+                                <path d="M12.5,18.4 C12.5,18.4 12.1,20.7 14.2,20.7 C16.3,20.7 15.9,18.4 15.9,18.4" id="Shape" stroke="#A09F9F"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M0.380434783,43.5 L34.6195652,43.5" id="Line" stroke="#979797"></path>
+                    <path d="M50.3804348,43.5 L84.6195652,43.5" id="Line" stroke="#979797"></path>
+                    <path d="M100.380435,43.5 L134.619565,43.5" id="Line" stroke="#979797"></path>
+                    <path d="M150.380435,43.5 L184.619565,43.5" id="Line" stroke="#979797"></path>
+                    <path d="M200.380435,43.5 L234.619565,43.5" id="Line" stroke="#979797"></path>
+                    <g id="Sad-Egg" transform="translate(152.000000, 0.197847)">
+                        <path d="M14.0483051,37.8411392 C6.25508475,37.8411392 0,33.8670886 0,23.4734177 C0,18.3376776 4.70768983,6.02481844 4.70768983,6.02481844 C4.70768983,6.02481844 6.51734737,7.86097627 7.79307285,7.46301728 C8.41923105,7.26768898 8.64840824,6.02700678 8.99412588,4.75383978 C9.55253429,2.69740103 12.1388185,5.91023744 12.5184255,4.75383978 C13.080451,3.04174003 12.5225992,-0.165254574 14.0483051,0.102172655 C21.8664062,1.47253712 27.0711864,10.9398734 27.9940678,20.7221519 L24.3025424,31.1158228 L16.0991525,37.7392405 C15.4838983,37.8411392 14.7661017,37.8411392 14.0483051,37.8411392 L14.0483051,37.8411392 L14.0483051,37.8411392 Z" id="Shape" fill="#9B9B9B"></path>
+                        <ellipse id="Oval" fill="#FFFFFF" cx="10.1127119" cy="14.628481" rx="1.33305085" ry="1.32468354"></ellipse>
+                        <ellipse id="Oval" fill="#FFFFFF" cx="17.4686441" cy="14.628481" rx="1.33305085" ry="1.32468354"></ellipse>
+                        <path d="M12.1329088,18.5949367 C12.1329088,18.5949367 11.7227393,20.9386076 13.8761291,20.9386076 C16.0295189,20.9386076 15.6193494,18.5949367 15.6193494,18.5949367" id="Shape" stroke="#FFFFFF" transform="translate(13.876129, 19.766772) rotate(180.000000) translate(-13.876129, -19.766772) "></path>
+                        <path d="M27.7932203,20.9240506 C27.8957627,21.8411392 27.8957627,22.7582278 27.8957627,23.6753165 C27.8957627,33.1518987 22.6661017,37.2278481 15.8983051,37.9411392 C15.8983051,37.9411392 20.1025424,33.8651899 22.5635593,30.4006329 C25.0245763,26.8341772 27.7932203,20.9240506 27.7932203,20.9240506 L27.7932203,20.9240506 L27.7932203,20.9240506 L27.7932203,20.9240506 Z" id="Shape" fill="#E0E1E0"></path>
+                    </g>
+                </g>
+            </g>
+            <image id="ic_undo_black_24dp_2x" x="777" y="114" width="30" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAdpJREFUaAXtlU0rRVEUhi/5SIwYMFIGGKEwU/wYij9goMQuQyXGMmXiBygjmSqSgfI1kmSEfObrWXLrdtr7nLXPPYOr1qqne/fea71r7/fue06pZGEOmAPmgDlgDpgD5oA5YA7UkgOuljaTZy/fFP2bQzQETrj4Nx9zkCZqJmAchqEXuqAVvuAJbuAcDmEP9uEdCg35Bco4hfIoORtwD+U67afUrIMcuLBINncBZWm6C8n8vOMdtAYCvaKmfRtwFQotfF+DT/DlVjP3geYyNEPuCG3AoSj3+gRCOUXNH9GjB3JF2iaeUUxbf2B9C6ZArlg71IM8LDpgBGRtE7L+M3d/+XzERdoGQ2tXtJgGeeJoQ67iJJxBSFcOKUZERUjMN/+G8jxUc2cbqZ+FF/D1uGW+G9ThE/HNPaIoj9CiYhChC/D1OmBe3jOq8AmE5pxKUZ/USeox+PotaWV8xWlzTiuszJNDXEKyp7yx+zQayULN2GmEI3KGyH2FZO9tjUaySDt2GvGInDlyk73l5dmfpZEsihm7LPGIdfnT+q7SSpZGzIZ9uS6rQcT6DLmVPa4ZL2TVVxbk/e6ymijX28g7hVUYgzqwMAfMAXPAHDAHzAFzwBwwB8wBc+DXgR+KaFQDYxweZgAAAABJRU5ErkJggg=="></image>
+            <g id="Scratchpad-Tools" transform="translate(731.000000, 116.000000)">
+                <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(196.000000, 0.000000)">
+                    <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
+                    <g id="rect-3-link" fill="#F6A623">
+                        <rect id="rect-3" x="0" y="0" width="28" height="28"></rect>
+                    </g>
+                </g>
+                <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(106.000000, 0.000000)">
+                    <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
+                    <g id="rect-4-link" fill="#D0011B">
+                        <rect id="rect-4" x="0" y="0" width="28" height="28"></rect>
+                    </g>
+                </g>
+                <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(136.000000, 0.000000)">
+                    <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
+                    <g id="rect-5-link" fill="#4990E2">
+                        <rect id="rect-5" x="0" y="0" width="28" height="28"></rect>
+                    </g>
+                </g>
+                <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(166.000000, 0.000000)">
+                    <image id="Bitmap" x="0" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
+                    <g id="rect-6-link" fill="#417505">
+                        <rect id="rect-6" x="0" y="0" width="28" height="28"></rect>
+                    </g>
+                </g>
+                <image id="ic_fiber_manual_record_black_24dp_2x" x="76" y="0" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="></image>
+                <g id="ic_edit_black_24dp_2x" transform="translate(11.000000, 13.000000) rotate(-4.000000) translate(-11.000000, -13.000000) translate(1.000000, 3.000000)">
+                    <image id="Bitmap" x="0" y="0" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAV5JREFUaAXtllGKwkAMhgt7Dm3duyw+7GkEb+AVxBN4FV/3BrqzhxDEF/3zEAhD16YtTjKQQJgUpp3v//tD2zRR4UA4EA6EA02zggk/6Dv6gP5AV1OfIP1DP0QfMVchog+ehbgX8Qq+ChFbERkG7ltdv4mdUsQe+1wUxWadkWhEXLN7TC458zec/p0RDIk4ZfuLXzI8Z3yMiDNoF8WJxYE5/BgRBL8Uzyo+/gevEWEOT78H+ReWweXaF6eNtfNaeBbSJ6J4XPjAsfBSxBc/xGqdCk8iqsk8Oy7XgJ8Tuepjk6BexkE7u4jNVPgLRJt+YSk2AQ8TileHExNam3O5zzw2AY83Z1IdTk1oGQftTLFp0WbV4eSE1gLLfQEP42ZVwt3SUe1s7jyr1gLLfW7gSYQE08y/uKdl9R5WDTTvcQdPBjLc0OoSXivALbxGgGv4IQHu4UlAVDgQDoQD73fgCQPpsQh0uVjgAAAAAElFTkSuQmCC"></image>
+                    <g id="rect-7-link" fill="#3A3A3A">
+                        <rect id="rect-7" x="0" y="0" width="20" height="20"></rect>
+                    </g>
+                </g>
+                <polygon id="Shape" fill="#3A3A3A" points="40 7.41 38.59 6 33 11.59 27.41 6 26 7.41 31.59 13 26 18.59 27.41 20 33 14.41 38.59 20 40 18.59 34.41 13"></polygon>
+            </g>
+            <g id="Group-3" transform="translate(140.000000, 457.000000)">
+                <g id="Rectangle-Clipped">
+                    <g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="path-3"></g>
+                        <g id="Rectangle" mask="url(#mask-4)" stroke="#58AF56" stroke-width="4">
+                            <rect id="path-8" x="0" y="0" width="133" height="41" rx="4"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Get-a-Hint" transform="translate(26.000000, 10.000000)" font-size="14.3999996" font-family="NotoSans-Bold, Noto Sans" fill="#58AF56" font-weight="bold">
+                    <g id="Group">
+                        <text id="Get-a-Hint">
+                            <tspan x="0.015625" y="15.7380952">Get a Hint</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Scratchpad-button" transform="translate(821.000000, 159.000000)">
+                <rect id="Rectangle-5" fill="#7B9EBE" x="0" y="0" width="136" height="30" rx="7"></rect>
+                <g id="Hide-Scratchpad" transform="translate(20.000000, 6.000000)" font-size="12" font-family="NotoSans-Bold, Noto Sans" fill="#FFFFFF" font-weight="bold">
+                    <g id="Group">
+                        <text id="Hide-Scratchpad">
+                            <tspan x="0" y="13">Hide Scratchpad</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g id="@@../shared/default_elements/default_buttons/flat_btn.svg" transform="translate(150.000000, 804.000000)" font-size="16" font-family="NotoSans-Bold, Noto Sans" fill="#996189" font-weight="bold">
+            <g id="Flat-ButtonBBBB" transform="translate(-2.000000, -4.000000)">
+                <g id="Group">
+                    <text id="Flat-ButtonBBBB">
+                        <tspan x="0.996" y="17">Flat ButtonBBBB</tspan>
+                    </text>
                 </g>
             </g>
         </g>
