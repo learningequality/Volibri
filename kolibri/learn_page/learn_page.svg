@@ -45,14 +45,14 @@
             </g>
           </g>
         </g>
-        <text id="“We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="186" y="177">“We hold these truths to be</tspan>
+        <text id="We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+          <tspan x="186" y="177">We hold these truths to be</tspan>
         </text>
         <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic">
           <tspan x="421.6" y="177">self-evident</tspan>
         </text>
-        <text id=".”" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="512.188" y="177">.”</tspan>
+        <text id="." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+          <tspan x="512.188" y="177">.</tspan>
         </text>
         <text id="The-term" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
           <tspan x="186" y="201">The term</tspan>
@@ -71,8 +71,8 @@
         <text id="shows-the-influence-of-philosophers-such-as-David-Hume." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
           <tspan x="222" y="279">shows the influence of philosophers such as David Hume.</tspan>
         </text>
-        <text id="was-colonists’-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
-          <tspan x="222" y="325">was colonists’ way of mocking the British by stating the obvious nature of their beliefs.</tspan>
+        <text id="was-colonists-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
+          <tspan x="222" y="325">was colonists way of mocking the British by stating the obvious nature of their beliefs.</tspan>
         </text>
         <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
           <tspan x="222" y="371">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
