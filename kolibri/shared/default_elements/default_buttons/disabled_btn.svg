@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="36" viewBox="0 0 176 36">
+  <g id="disabled_btn" fill="none" fill-rule="evenodd">
+    <rect id="Rectangle-1-Copy-2" width="176" height="36" fill="#DFDFDF" rx="4"/>
+    <text id="Disabled-Button" fill="#95A5A6" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+      <tspan x="23.668" y="24">Disabled Button</tspan>
+    </text>
+  </g>
+</svg>
