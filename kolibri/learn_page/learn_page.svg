@@ -45,14 +45,14 @@
             </g>
           </g>
         </g>
-        <text id="“We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="186" y="177">“We hold these truths to be</tspan>
+        <text id="We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+          <tspan x="186" y="177">We hold these truths to be</tspan>
         </text>
         <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic">
           <tspan x="421.6" y="177">self-evident</tspan>
         </text>
-        <text id=".”" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="512.188" y="177">.”</tspan>
+        <text id="." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+          <tspan x="512.188" y="177">.</tspan>
         </text>
         <text id="The-term" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
           <tspan x="186" y="201">The term</tspan>
@@ -71,8 +71,8 @@
         <text id="shows-the-influence-of-philosophers-such-as-David-Hume." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
           <tspan x="222" y="279">shows the influence of philosophers such as David Hume.</tspan>
         </text>
-        <text id="was-colonists’-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
-          <tspan x="222" y="325">was colonists’ way of mocking the British by stating the obvious nature of their beliefs.</tspan>
+        <text id="was-colonists-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
+          <tspan x="222" y="325">was colonists way of mocking the British by stating the obvious nature of their beliefs.</tspan>
         </text>
         <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
           <tspan x="222" y="371">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
@@ -126,11 +126,11 @@
           </g>
           <path id="Line" stroke="#979797" d="M.38 43.5h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24"/>
           <g id="Sad-Egg" transform="translate(152 .198)">
-            <path id="Shape" fill="#9B9B9B" d="M14.048 37.841C6.255 37.841 0 33.867 0 23.473 0 18.338 4.708 6.025 4.708 6.025s1.81 1.836 3.085 1.438c.626-.195.855-1.436 1.201-2.71.559-2.056 3.145 1.157 3.524 0 .562-1.711.005-4.918 1.53-4.65 7.818 1.37 13.023 10.837 13.946 20.62l-3.691 10.393-8.204 6.623c-.615.102-1.333.102-2.05.102z"/>
+            <path id="Shape" fill="#9B9B9B" d="M14.048 37.841C6.255 37.841 0 33.867 0 23.473 0 18.338 4.708 6.025 4.708 6.025s1.81 1.836 3.085 1.438c.626-.195.855-1.436 1.201-2.71.559-2.056 3.145 1.157 3.524 0 .562-1.711.005-4.918 1.53-4.65 7.818 1.37 13.023 10.837 13.946 20.62l-3.691 10.393-8.204 6.623c-.615.102-1.333.102-2.05.102h-.001z"/>
             <ellipse id="Oval" cx="10.113" cy="14.628" fill="#FFFFFF" rx="1.333" ry="1.325"/>
             <ellipse id="Oval" cx="17.469" cy="14.628" fill="#FFFFFF" rx="1.333" ry="1.325"/>
             <path id="Shape" stroke="#FFFFFF" d="M12.133 18.595s-.41 2.344 1.743 2.344c2.154 0 1.743-2.344 1.743-2.344" transform="rotate(180 13.876 19.767)"/>
-            <path id="Shape" fill="#E0E1E0" d="M27.793 20.924c.103.917.103 1.834.103 2.751 0 9.477-5.23 13.553-11.998 14.266 0 0 4.205-4.076 6.666-7.54 2.46-3.567 5.23-9.477 5.23-9.477z"/>
+            <path id="Shape" fill="#E0E1E0" d="M27.793 20.924c.103.917.103 1.834.103 2.751 0 9.477-5.23 13.553-11.998 14.266 0 0 4.205-4.076 6.666-7.54 2.46-3.567 5.23-9.477 5.23-9.477h-.001z"/>
           </g>
         </g>
       </g>
@@ -205,6 +205,12 @@
           </text>
         </g>
       </g>
+    </g>
+    <g id="@@../shared/default_elements/default_buttons/disabled_btn.svg" transform="translate(165 23)">
+      <rect id="Rectangle-1-Copy-2" width="176" height="36" fill="#DFDFDF" rx="4"/>
+      <text id="Disabled-Button" fill="#95A5A6" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+        <tspan x="23.668" y="24">Disabled Button</tspan>
+      </text>
     </g>
   </g>
 </svg>
