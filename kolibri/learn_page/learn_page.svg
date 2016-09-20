@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <rect id="path-1" width="831" height="309" rx="8"/>
-    <rect id="path-3" width="133" height="41" rx="4"/>
+    <rect id="path-1" width="176" height="36" rx="4"/>
+    <rect id="path-3" width="176" height="36" rx="4"/>
+    <rect id="path-5" width="831" height="309" rx="8"/>
+    <rect id="path-7" width="133" height="41" rx="4"/>
   </defs>
   <g id="learn_page" fill="none" fill-rule="evenodd">
     <rect id="background" width="1440" height="1024" fill="#F9F9F9"/>
@@ -21,6 +23,22 @@
       </text>
       <polygon id="Shape" fill="#996192" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"/>
     </g>
+    <g id="@@../shared/default_elements/default_buttons/std_btn.svg" transform="translate(985 662)">
+      <g id="path-1-Clipped">
+        <mask id="mask-2" fill="white">
+          <use xlink:href="#path-1"/>
+        </mask>
+        <rect id="path-1" width="176" height="36" stroke="#996189" stroke-width="4" mask="url(#mask-2)" rx="4"/>
+      </g>
+      <g id="Standard-Button-Clipped">
+        <mask id="mask-4" fill="white">
+          <use xlink:href="#path-3"/>
+        </mask>
+        <text id="Standard-Button" fill="#996189" mask="url(#mask-4)" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+          <tspan x="22.074" y="24">Standard Button</tspan>
+        </text>
+      </g>
+    </g>
     <g id="@@../shared/exercise/exercise_components.svg" transform="translate(189 77)">
       <g id="Group">
         <rect id="Rectangle" width="1156" height="742" fill="#FFFFFF" rx="4"/>
@@ -36,10 +54,10 @@
         <g id="Rectangle-2-Clipped" transform="translate(141 103)">
           <g id="Group">
             <g id="Rectangle-2-Clipped">
-              <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"/>
+              <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"/>
               </mask>
-              <g id="Rectangle-2" stroke="#E2D1E0" stroke-width="2" mask="url(#mask-2)">
+              <g id="Rectangle-2" stroke="#E2D1E0" stroke-width="2" mask="url(#mask-6)">
                 <rect id="path-1" width="831" height="309" rx="8"/>
               </g>
             </g>
@@ -171,10 +189,10 @@
       </g>
       <g id="Group-3" transform="translate(140 457)">
         <g id="Rectangle-Clipped">
-          <mask id="mask-4" fill="white">
-            <use xlink:href="#path-3"/>
+          <mask id="mask-8" fill="white">
+            <use xlink:href="#path-7"/>
           </mask>
-          <g id="Rectangle" stroke="#58AF56" stroke-width="4" mask="url(#mask-4)">
+          <g id="Rectangle" stroke="#58AF56" stroke-width="4" mask="url(#mask-8)">
             <rect id="path-8" width="133" height="41" rx="4"/>
           </g>
         </g>
@@ -194,6 +212,15 @@
               <tspan x="0" y="13">Hide Scratchpad</tspan>
             </text>
           </g>
+        </g>
+      </g>
+    </g>
+    <g id="@@../shared/default_elements/default_buttons/flat_btn.svg" fill="#996189" transform="translate(148 800)" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
+      <g id="Flat-ButtonBBBB">
+        <g id="Group">
+          <text id="Flat-ButtonBBBB">
+            <tspan x=".996" y="17">Flat ButtonBBBB</tspan>
+          </text>
         </g>
       </g>
     </g>
