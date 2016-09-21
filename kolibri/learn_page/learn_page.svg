@@ -2,6 +2,9 @@
   <defs>
     <rect id="path-1" width="176" height="36" rx="4"/>
     <rect id="path-3" width="176" height="36" rx="4"/>
+    <rect id="path-5" width="831" height="253" rx="8"/>
+    <rect id="path-7" width="174" height="42" rx="4"/>
+    <rect id="path-9" width="549" height="253"/>
     <rect id="path-5" width="831" height="309" rx="8"/>
     <rect id="path-7" width="133" height="41" rx="4"/>
     <rect id="path-9" width="178" height="158" rx="4"/>
@@ -21,14 +24,14 @@
         <tspan x="26" y="429">Search</tspan>
       </text>
       <path id="Shape" fill="#996192" d="M56.794 395.579H55.1l-.6-.58a13.871 13.871 0 0 0 3.365-9.066c0-7.695-6.238-13.933-13.933-13.933C36.238 372 30 378.238 30 385.933c0 7.695 6.238 13.933 13.933 13.933 3.45 0 6.623-1.265 9.067-3.366l.579.6v1.694l10.717 10.696 3.194-3.194-10.696-10.717zm-12.861 0a9.633 9.633 0 0 1-9.646-9.646 9.633 9.633 0 0 1 9.646-9.646 9.633 9.633 0 0 1 9.646 9.646 9.633 9.633 0 0 1-9.646 9.646z"/>
-      <text id="Explore" fill="#FFFFFF" font-family="NotoSans, Noto Sans" font-size="14">
-        <tspan x="25" y="272">Explore</tspan>
+      <text id="Wonder" fill="#FFFFFF" font-family="NotoSans, Noto Sans" font-size="14">
+        <tspan x="25" y="272">Wonder</tspan>
       </text>
       <path id="Shape" fill="#FFFFFF" d="M50 230.8c-1.22 0-2.2.98-2.2 2.2 0 1.22.98 2.2 2.2 2.2 1.22 0 2.2-.98 2.2-2.2 0-1.22-.98-2.2-2.2-2.2zm0-17.8c-11.04 0-20 8.96-20 20s8.96 20 20 20 20-8.96 20-20-8.96-20-20-20zm4.38 24.38L38 245l7.62-16.38L62 221l-7.62 16.38z"/>
       <text id="Learn" fill="#996192" font-family="NotoSans, Noto Sans" font-size="14">
         <tspan x="31" y="109">Learn</tspan>
       </text>
-      <polygon id="Shape" fill="#996192" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"/>
+      <polygon id="Shape" fill="#4AB649" points="46 90 46 78 54 78 54 90 64 90 64 74 70 74 50 56 30 74 36 74 36 90"/>
     </g>
     <g id="@@../shared/default_elements/default_buttons/std_btn.svg" transform="translate(373 23)">
       <g id="path-1-Clipped">
@@ -47,185 +50,144 @@
       </g>
     </g>
     <g id="@@../shared/exercise/exercise_components.svg" transform="translate(189 77)">
-      <g id="Group">
-        <rect id="Rectangle" width="1156" height="742" fill="#FFFFFF" rx="4"/>
-        <text id="Points:" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
-          <tspan x="495" y="447">Points:</tspan>
-        </text>
-        <text id="US-History" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold">
-          <tspan x="543" y="47">US History</tspan>
-        </text>
-        <text id="The-Declaration-of-Independence" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
-          <tspan x="498" y="71">The Declaration of Independence</tspan>
-        </text>
-        <g id="Rectangle-2-Clipped" transform="translate(141 103)">
-          <g id="Group">
-            <g id="Rectangle-2-Clipped">
-              <mask id="mask-6" fill="white">
-                <use xlink:href="#path-5"/>
-              </mask>
-              <g id="Rectangle-2" stroke="#E2D1E0" stroke-width="2" mask="url(#mask-6)">
-                <rect id="path-1" width="831" height="309" rx="8"/>
-              </g>
-            </g>
-          </g>
-        </g>
-        <text id="We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="186" y="177">We hold these truths to be</tspan>
-        </text>
-        <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic">
-          <tspan x="421.6" y="177">self-evident</tspan>
-        </text>
-        <text id="." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="512.188" y="177">.</tspan>
-        </text>
-        <text id="The-term" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="186" y="201">The term</tspan>
-        </text>
-        <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic">
-          <tspan x="267.554" y="201">self-evident</tspan>
-        </text>
-        <text id="means..." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
-          <tspan x="362.818" y="201">means...</tspan>
-        </text>
-        <g id="Checkboxes" fill="#D8D8D8" transform="translate(184 264)">
-          <rect id="Rectangle-13" width="25.533" height="22.198" rx="8"/>
-          <rect id="Rectangle-13" width="25.533" height="22.198" y="45" rx="8"/>
-          <rect id="Rectangle-13" width="25.533" height="22.198" y="91" rx="8"/>
-        </g>
-        <text id="shows-the-influence-of-philosophers-such-as-David-Hume." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
-          <tspan x="222" y="279">shows the influence of philosophers such as David Hume.</tspan>
-        </text>
-        <text id="was-colonists-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
-          <tspan x="222" y="325">was colonists way of mocking the British by stating the obvious nature of their beliefs.</tspan>
-        </text>
-        <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
-          <tspan x="222" y="371">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
-        </text>
-        <text id="Select-all-that-apply." fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
-          <tspan x="186" y="247">Select all that apply.</tspan>
-        </text>
-        <g id="Group-3" transform="translate(796 458)">
-          <rect id="Rectangle" width="174" height="42" fill="#58B056" rx="4"/>
-          <g id="Check-Answer" fill="#FFFFFF" transform="translate(37 11)" font-size="14.4" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
-            <g id="Group">
-              <text id="Check-Answer">
-                <tspan x=".389" y="15">Check Answer</tspan>
-              </text>
-            </g>
-          </g>
-        </g>
-        <g id="Egg-Points" transform="translate(529 456.802)">
-          <g id="egg" transform="translate(3 2)">
-            <g id="Layer_1">
-              <g id="Group">
-                <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
-                <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
-                <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
-                <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
-                <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
-              </g>
-            </g>
-          </g>
-          <g id="egg" transform="translate(52 2)">
-            <g id="Layer_1">
-              <g id="Group">
-                <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
-                <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
-                <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
-                <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
-                <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
-              </g>
-            </g>
-          </g>
-          <g id="egg" transform="translate(101 2)">
-            <g id="Layer_1">
-              <g id="Group">
-                <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
-                <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
-                <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
-                <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
-                <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
-              </g>
-            </g>
-          </g>
-          <path id="Line" stroke="#979797" d="M.38 43.5h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24"/>
-          <g id="Sad-Egg" transform="translate(152 .198)">
-            <path id="Shape" fill="#9B9B9B" d="M14.048 37.841C6.255 37.841 0 33.867 0 23.473 0 18.338 4.708 6.025 4.708 6.025s1.81 1.836 3.085 1.438c.626-.195.855-1.436 1.201-2.71.559-2.056 3.145 1.157 3.524 0 .562-1.711.005-4.918 1.53-4.65 7.818 1.37 13.023 10.837 13.946 20.62l-3.691 10.393-8.204 6.623c-.615.102-1.333.102-2.05.102h-.001z"/>
-            <ellipse id="Oval" cx="10.113" cy="14.628" fill="#FFFFFF" rx="1.333" ry="1.325"/>
-            <ellipse id="Oval" cx="17.469" cy="14.628" fill="#FFFFFF" rx="1.333" ry="1.325"/>
-            <path id="Shape" stroke="#FFFFFF" d="M12.133 18.595s-.41 2.344 1.743 2.344c2.154 0 1.743-2.344 1.743-2.344" transform="rotate(180 13.876 19.767)"/>
-            <path id="Shape" fill="#E0E1E0" d="M27.793 20.924c.103.917.103 1.834.103 2.751 0 9.477-5.23 13.553-11.998 14.266 0 0 4.205-4.076 6.666-7.54 2.46-3.567 5.23-9.477 5.23-9.477h-.001z"/>
-          </g>
+      <rect id="Rectangle" width="1156" height="742" fill="#FFFFFF"/>
+      <text id="Points:" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
+        <tspan x="736" y="514">Points:</tspan>
+      </text>
+      <text id="US-History" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="20" font-weight="bold">
+        <tspan x="543" y="47">US History</tspan>
+      </text>
+      <text id="The-Declaration-of-Independence" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
+        <tspan x="498" y="71">The Declaration of Independence</tspan>
+      </text>
+      <g id="Rectangle-2-Clipped" transform="translate(141 103)">
+        <mask id="mask-6" fill="white">
+          <use xlink:href="#path-5"/>
+        </mask>
+        <g id="Rectangle-2" stroke="#E2D1E0" stroke-width="2" mask="url(#mask-6)">
+          <rect id="path-1" width="831" height="253" rx="8"/>
         </g>
       </g>
-      <image id="ic_undo_black_24dp_2x" width="30" height="30" x="777" y="114" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAdpJREFUaAXtlU0rRVEUhi/5SIwYMFIGGKEwU/wYij9goMQuQyXGMmXiBygjmSqSgfI1kmSEfObrWXLrdtr7nLXPPYOr1qqne/fea71r7/fue06pZGEOmAPmgDlgDpgD5oA5YA7UkgOuljaTZy/fFP2bQzQETrj4Nx9zkCZqJmAchqEXuqAVvuAJbuAcDmEP9uEdCg35Bco4hfIoORtwD+U67afUrIMcuLBINncBZWm6C8n8vOMdtAYCvaKmfRtwFQotfF+DT/DlVjP3geYyNEPuCG3AoSj3+gRCOUXNH9GjB3JF2iaeUUxbf2B9C6ZArlg71IM8LDpgBGRtE7L+M3d/+XzERdoGQ2tXtJgGeeJoQ67iJJxBSFcOKUZERUjMN/+G8jxUc2cbqZ+FF/D1uGW+G9ThE/HNPaIoj9CiYhChC/D1OmBe3jOq8AmE5pxKUZ/USeox+PotaWV8xWlzTiuszJNDXEKyp7yx+zQayULN2GmEI3KGyH2FZO9tjUaySDt2GvGInDlyk73l5dmfpZEsihm7LPGIdfnT+q7SSpZGzIZ9uS6rQcT6DLmVPa4ZL2TVVxbk/e6ymijX28g7hVUYgzqwMAfMAXPAHDAHzAFzwBwwB8wBc+DXgR+KaFQDYxweZgAAAABJRU5ErkJggg=="/>
-      <g id="Scratchpad-Tools" transform="translate(731 116)">
-        <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(196)">
-          <image id="Bitmap" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="/>
-          <g id="rect-3-link" fill="#F6A623">
-            <rect id="rect-3" width="28" height="28"/>
-          </g>
-        </g>
-        <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(106)">
-          <image id="Bitmap" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="/>
-          <g id="rect-4-link" fill="#D0011B">
-            <rect id="rect-4" width="28" height="28"/>
-          </g>
-        </g>
-        <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(136)">
-          <image id="Bitmap" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="/>
-          <g id="rect-5-link" fill="#4990E2">
-            <rect id="rect-5" width="28" height="28"/>
-          </g>
-        </g>
-        <g id="ic_fiber_manual_record_black_24dp_2x" transform="translate(166)">
-          <image id="Bitmap" width="28" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="/>
-          <g id="rect-6-link" fill="#417505">
-            <rect id="rect-6" width="28" height="28"/>
-          </g>
-        </g>
-        <image id="ic_fiber_manual_record_black_24dp_2x" width="28" height="28" x="76" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAf5JREFUaAXtWEtKA0EQjYL4N3cYf0vFI2QZvZeQ4AUkkpV4At15Bz+4NVuJK8UPqKDvLZrIQFI1TlW3kC54TCY9U69e9a96Go1sOQM5AzkDOQPTnIEZQ/Fr8HUAtIAdoABWAdozMACugUvgHOB//8K2EUUfeAe+lXjDcyfAJpDMlsB8BHwB2sDLz33i3S6wCES1LbDdAeWA/np/A18bsRTsgejRMPggegifu94imHmP4H+LcOuJZQRvOWxC0OUrh5PLnOCELZN53XfAZWpcKuusNlWFcnUyHUp9OKwaRN3ne1Zd0ISjKptU3cDD+6/gDTv5WC2zY1tGDfv4uTC6jfaLG2VbYtMIYG2TykRujQAWZqlM5NYIKFJFD16RW1NOf8DRXCIR5J6fxK3pgUnvJ2/TCEh58HiSMqQRMJCcOLbfS741AngMTGUit0YAz7CpzISbh3WeYcMWH+vKUmJFypymBziJzyRHDu2n8Pli5ZdfD1jixso+1/91q+CDn25EAYeB1PLK6vA2gogrcLhVvzwlDR1FPMB3AbgaP314iGDwYvVppYw9wa8HVpOaw8Y982Xx/PTRAeqsTlxtOGHdxjx8i8be4AGcG4+2R/jsMVB7qdScB8CjMh7A20AL4FjmkGgCNFaVLMxY27A8uADMNin4ypYzkDOQM5AzMKUZ+AHFh9U7lEOWiwAAAABJRU5ErkJggg=="/>
-        <g id="ic_edit_black_24dp_2x" transform="rotate(-4 53.454 -2.818)">
-          <image id="Bitmap" width="20" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAA1teXP8meAAAAV5JREFUaAXtllGKwkAMhgt7Dm3duyw+7GkEb+AVxBN4FV/3BrqzhxDEF/3zEAhD16YtTjKQQJgUpp3v//tD2zRR4UA4EA6EA02zggk/6Dv6gP5AV1OfIP1DP0QfMVchog+ehbgX8Qq+ChFbERkG7ltdv4mdUsQe+1wUxWadkWhEXLN7TC458zec/p0RDIk4ZfuLXzI8Z3yMiDNoF8WJxYE5/BgRBL8Uzyo+/gevEWEOT78H+ReWweXaF6eNtfNaeBbSJ6J4XPjAsfBSxBc/xGqdCk8iqsk8Oy7XgJ8Tuepjk6BexkE7u4jNVPgLRJt+YSk2AQ8TileHExNam3O5zzw2AY83Z1IdTk1oGQftTLFp0WbV4eSE1gLLfQEP42ZVwt3SUe1s7jyr1gLLfW7gSYQE08y/uKdl9R5WDTTvcQdPBjLc0OoSXivALbxGgGv4IQHu4UlAVDgQDoQD73fgCQPpsQh0uVjgAAAAAElFTkSuQmCC"/>
-          <g id="rect-7-link" fill="#3A3A3A">
-            <rect id="rect-7" width="20" height="20"/>
-          </g>
-        </g>
-        <polygon id="Shape" fill="#3A3A3A" points="40 7.41 38.59 6 33 11.59 27.41 6 26 7.41 31.59 13 26 18.59 27.41 20 33 14.41 38.59 20 40 18.59 34.41 13"/>
-      </g>
-      <g id="Group-3" transform="translate(140 457)">
+      <text id="We-hold-these-truths-to-be" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+        <tspan x="186" y="137">We hold these truths to be</tspan>
+      </text>
+      <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic">
+        <tspan x="415.14" y="137">self-evident</tspan>
+      </text>
+      <text id="." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+        <tspan x="505.729" y="137">.</tspan>
+      </text>
+      <text id="The-term" fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+        <tspan x="186" y="161">The term</tspan>
+      </text>
+      <text id="self-evident" fill="#3A3A3A" font-family="NotoSans-Italic, Noto Sans" font-size="18" font-style="italic">
+        <tspan x="267.554" y="161">self-evident</tspan>
+      </text>
+      <text id="means..." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="18">
+        <tspan x="362.818" y="161">means...</tspan>
+      </text>
+      <rect id="Rectangle-13" width="25.533" height="22.198" x="184" y="224" fill="#D8D8D8" rx="8"/>
+      <rect id="Rectangle-13" width="25.533" height="22.198" x="184" y="269" fill="#D8D8D8" rx="8"/>
+      <rect id="Rectangle-13" width="25.533" height="22.198" x="184" y="315" fill="#D8D8D8" rx="8"/>
+      <text id="shows-the-influence-of-philosophers-such-as-David-Hume." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
+        <tspan x="222" y="239">shows the influence of philosophers such as David Hume.</tspan>
+      </text>
+      <text id="was-colonists-way-of-mocking-the-British-by-stating-the-obvious-nature-of-their-beliefs." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
+        <tspan x="222" y="285">was colonists way of mocking the British by stating the obvious nature of their beliefs.</tspan>
+      </text>
+      <text id="shows-the-influence-of-the-Scientific-Revolution-on-the-authors-of-the-Declaration." fill="#3A3A3A" font-family="NotoSans, Noto Sans" font-size="14">
+        <tspan x="222" y="331">shows the influence of the Scientific Revolution on the authors of the Declaration.</tspan>
+      </text>
+      <text id="Select-all-that-apply." fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
+        <tspan x="186" y="207">Select all that apply.</tspan>
+      </text>
+      <g id="Group-3" transform="translate(798 370)">
         <g id="Rectangle-Clipped">
           <mask id="mask-8" fill="white">
             <use xlink:href="#path-7"/>
           </mask>
-          <g id="Rectangle" stroke="#58AF56" stroke-width="4" mask="url(#mask-8)">
-            <rect id="path-8" width="133" height="41" rx="4"/>
+          <g id="Rectangle" fill="#996189" stroke="#979797" stroke-width="2" mask="url(#mask-8)">
+            <rect id="path-3" width="174" height="42" rx="4"/>
           </g>
         </g>
-        <g id="Get-a-Hint" fill="#58AF56" transform="translate(26 10)" font-size="14.4" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
-          <g id="Group">
-            <text id="Get-a-Hint">
-              <tspan x=".016" y="15.738">Get a Hint</tspan>
-            </text>
-          </g>
+        <text id="Check-Answer" fill="#FFFFFF" transform="translate(37 11)" font-size="14.4" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
+          <tspan x=".389" y="15">Check Answer</tspan>
+        </text>
+      </g>
+      <text id="Scratchpad" fill="#3A3A3A" font-family="NotoSans-Bold, Noto Sans" font-size="14" font-weight="bold">
+        <tspan x="140" y="435">Scratchpad</tspan>
+      </text>
+      <g id="Rectangle-3-Clipped" transform="translate(140 453)">
+        <mask id="mask-10" fill="white">
+          <use xlink:href="#path-9"/>
+        </mask>
+        <g id="Rectangle-3" stroke="#979797" stroke-width="2" mask="url(#mask-10)">
+          <rect id="path-5" width="549" height="253"/>
         </g>
       </g>
-      <g id="Scratchpad-button" transform="translate(821 159)">
-        <rect id="Rectangle-5" width="136" height="30" fill="#7B9EBE" rx="7"/>
-        <g id="Hide-Scratchpad" fill="#FFFFFF" transform="translate(20 6)" font-size="12" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
-          <g id="Group">
-            <text id="Hide-Scratchpad">
-              <tspan x="0" y="13">Hide Scratchpad</tspan>
-            </text>
+      <g id="Egg-Points" transform="translate(730 542)">
+        <g id="egg" transform="translate(3)">
+          <g id="Layer_1">
+            <g id="Group">
+              <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
+              <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
+              <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
+            </g>
           </g>
         </g>
+        <g id="egg" transform="translate(52)">
+          <g id="Layer_1">
+            <g id="Group">
+              <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
+              <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
+              <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="egg" transform="translate(101)">
+          <g id="Layer_1">
+            <g id="Group">
+              <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
+              <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
+              <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="egg" transform="translate(153)">
+          <g id="Layer_1">
+            <g id="Group">
+              <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
+              <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
+              <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="egg" transform="translate(203)">
+          <g id="Layer_1">
+            <g id="Group">
+              <path id="Shape" fill="#E2D1E0" d="M16.2 37.5c-.6.1-1.3.1-2 .1C6.6 37.6.5 33.7.5 23.5S6.6.7 14.2.7c6.9 0 12.7 10.5 13.6 20.1L24.2 31l-8 6.5z"/>
+              <path id="Shape" fill="#E0E1E0" d="M27.8 21c.1.9.1 1.8.1 2.7 0 9.3-5.1 13.3-11.7 14 0 0 4.1-4 6.5-7.4 2.4-3.5 5.1-9.3 5.1-9.3z"/>
+              <circle id="Oval" cx="10.6" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <circle id="Oval" cx="17.8" cy="14.5" r="1.3" fill="#A09F9F"/>
+              <path id="Shape" stroke="#A09F9F" d="M12.5 18.4s-.4 2.3 1.7 2.3 1.7-2.3 1.7-2.3"/>
+            </g>
+          </g>
+        </g>
+        <path id="Line" stroke="#979797" d="M.38 41.5h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24"/>
       </g>
     </g>
     <g id="@@../shared/default_elements/default_buttons/disabled_btn.svg" transform="translate(165 23)">
       <rect id="Rectangle-1-Copy-2" width="176" height="36" fill="#DFDFDF" rx="4"/>
-      <text id="Disabled-Button" fill="#95A5A6" transform="translate(23 7)" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
-        <tspan x=".668" y="17">Disabled Button</tspan>
+      <text id="Disabled-Button" fill="#95A5A6" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+        <tspan x="23.668" y="24">Disabled Button</tspan>
       </text>
     </g>
     <polygon id="Star" fill="#ADCC79" stroke="#979797" stroke-width="8" points="217 451.461 173.504 474.867 182.323 426.267 146.622 392.133 195.568 385.502 217 341 238.432 385.502 287.378 392.133 251.677 426.267 260.496 474.867"/>
