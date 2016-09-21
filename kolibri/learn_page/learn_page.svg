@@ -7,6 +7,7 @@
   </defs>
   <g id="learn_page" fill="none" fill-rule="evenodd">
     <rect id="background" width="1440" height="1024" fill="#F9F9F9"/>
+    <polygon id="Triangle" fill="#D8D8D8" stroke="#D26F6F" stroke-width="31" points="493.5 698 646 907 341 907"/>
     <g id="@@../shared/side_nav/sidenav_desktop_explore_active.svg">
       <rect id="Rectangle" width="100" height="850" fill="#FFFFFF"/>
       <rect id="Rectangle-2" width="100" height="168" y="160" fill="#996192"/>
@@ -215,19 +216,10 @@
         </g>
       </g>
     </g>
-    <g id="@@../shared/default_elements/default_buttons/flat_btn.svg" fill="#996189" transform="translate(148 800)" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
-      <g id="Flat-ButtonBBBB">
-        <g id="Group">
-          <text id="Flat-ButtonBBBB">
-            <tspan x=".996" y="17">Flat ButtonBBBB</tspan>
-          </text>
-        </g>
-      </g>
-    </g>
     <g id="@@../shared/default_elements/default_buttons/disabled_btn.svg" transform="translate(165 23)">
       <rect id="Rectangle-1-Copy-2" width="176" height="36" fill="#DFDFDF" rx="4"/>
-      <text id="Disabled-Button" fill="#95A5A6" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
-        <tspan x="23.668" y="24">Disabled Button</tspan>
+      <text id="Disabled-Button" fill="#95A5A6" transform="translate(23 7)" font-size="16" font-family="NotoSans-Bold, Noto Sans" font-weight="bold">
+        <tspan x=".668" y="17">Disabled Button</tspan>
       </text>
     </g>
   </g>
