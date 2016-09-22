@@ -9,6 +9,10 @@
 
     <rect id="path-5" width="549" height="253"/>
 
+    <rect id="path-7" width="176" height="36" rx="4"/>
+
+    <rect id="path-9" width="176" height="36" rx="4"/>
+
   </defs>
 
   <g id="learn_page" fill="none" fill-rule="evenodd">
@@ -312,6 +316,38 @@
         </g>
 
         <path id="Line" stroke="#979797" d="M.38 41.5h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24m15.76 0h34.24"/>
+
+      </g>
+
+    </g>
+
+    <g id="@@../shared/default_elements/default_buttons/std_btn.svg" transform="translate(296 24)">
+
+      <g id="path-1-Clipped">
+
+        <mask id="mask-8" fill="white">
+
+          <use xlink:href="#path-7"/>
+
+        </mask>
+
+        <rect id="path-1" width="176" height="36" stroke="#996189" stroke-width="4" mask="url(#mask-8)" rx="4"/>
+
+      </g>
+
+      <g id="Standard-Button-Clipped">
+
+        <mask id="mask-10" fill="white">
+
+          <use xlink:href="#path-9"/>
+
+        </mask>
+
+        <text id="Standard-Button" fill="#996189" mask="url(#mask-10)" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+
+          <tspan x="22.074" y="24">Standard Button</tspan>
+
+        </text>
 
       </g>
 
