@@ -353,6 +353,18 @@
 
     </g>
 
+    <g id="@@../shared/default_elements/default_buttons/disabled_btn.svg" transform="translate(506 24)">
+
+      <rect id="Rectangle-1-Copy-2" width="176" height="36" fill="#DFDFDF" rx="4"/>
+
+      <text id="Disabled-Button" fill="#95A5A6" font-family="NotoSans-Bold, Noto Sans" font-size="16" font-weight="bold">
+
+        <tspan x="23.668" y="24">Disabled Button</tspan>
+
+      </text>
+
+    </g>
+
   </g>
 
 </svg>
